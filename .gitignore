@@ -1,0 +1,15 @@
+# Ignore virtual environment
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# VS Code settings
+.vscode/
+
+# Secrets and envs
+.env
+
+# Node modules (frontend)
+frontend/node_modules/
